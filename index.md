@@ -71,4 +71,4 @@ Don't cheat. Don't be that guy. Yes, you. You know exactly what I'm talking abou
 ## Class Schedule
 see the handout
 
-<embed src="./static_files/syllabus/syllabus.pdf" type="application/pdf" width="100%" height="100%">
+<embed src="./static_files/syllabus/syllabus.pdf" type="application/pdf" width="100%" height="480">
