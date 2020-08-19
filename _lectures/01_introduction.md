@@ -1,18 +1,11 @@
 ---
 type: lecture
-date: 2020-08-24T8:00:00+5:30
-title: Lecture 1
-tldr: "Short text to discribe what this lecture is about."
+date: 2020-08-25T12:00:00+5:30
+title: Lecture 1: Syllabus Day
+tldr: "Syllabus and course policy discussion and Introduction to Air mode of Transportation"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
-      name: slides
----
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
-- [Readings 3](http://example.com)
+    - url: /static_files/presentations/lec.png
+      name: Slides
+    - url: /static_files/syllabus/syllabus.pdf
+      name: Course Handout---
