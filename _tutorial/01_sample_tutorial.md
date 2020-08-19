@@ -1,5 +1,5 @@
 ---
-type: assignments
+type: assignment
 date: 2020-08-26T4:00:00+5:30
 due: 2020-08-30T4:00:00+5:30
 title: 'tut #1 - Sample Assignment'
