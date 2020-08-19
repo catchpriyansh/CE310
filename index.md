@@ -72,3 +72,7 @@ Don't cheat. Don't be that guy. Yes, you. You know exactly what I'm talking abou
 see the handout
 
 <embed src="./static_files/syllabus/syllabus.pdf" type="application/pdf" width="100%" height="480">
+
+
+<script src='/path-to-your-javascript-file/pdfobject.js'></script>
+<script>PDFObject.embed("/static_files/syllabus/syllabus.pdf");</script>
