@@ -13,7 +13,7 @@
     span.s1 {font-kerning: none}
     span.s2 {-webkit-text-stroke: 0px #000000}
     span.s3 {font: 12.0px Times; color: #0000e9; -webkit-text-stroke: 0px #000000}
-    span.s4 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9}
+    span.s4 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e3}
     span.s5 {font: 12.0px Times; font-kerning: none}
     ul.ul1 {list-style-type: disc}
   </style>
@@ -21,8 +21,8 @@
 <body>
 <p class="p1"><span class="s1">--- layout: page --- {{ content }}</span></p>
 <ul class="ul1">
-  <li class="li1"><span class="s2"></span><span class="s1">{% for asg in site.tutorials %}</span></li>
-  <li class="li2"><span class="s3"><a href="file:///Users/priyanshsingh/Library/Mobile%20Documents/com~apple~CloudDocs/BITS%20PPT/ce406/_layouts/%7B%7B%20asg.url%20%7C%20prepend:%20site.baseurl%7D%7D"><span class="s4">{{ asg.title }}</span></a></span><span class="s5"> </span><span class="s1"><b>{% if asg.attachment %}   {% endif %} <br>
+  <li class="li1"><span class="s2"></span><span class="s1">{% for tut in site.tutorials %}</span></li>
+  <li class="li2"><span class="s3"><a href="file:///Users/priyanshsingh/Library/Mobile%20Documents/com~apple~CloudDocs/BITS%20PPT/ce406/_layouts/%7B%7B%20asg.url%20%7C%20prepend:%20site.baseurl%7D%7D"><span class="s4">{{ tut.title }}</span></a></span><span class="s5"> </span><span class="s1"><b>{% if tut.attachment %}   {% endif %} <br>
 </b></span></li>
   <li class="li1"><span class="s2"></span><span class="s1">{% endfor %}<span class="Apple-converted-space"> </span></span></li>
 </ul>
