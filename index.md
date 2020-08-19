@@ -71,9 +71,5 @@ Don't cheat. Don't be that guy. Yes, you. You know exactly what I'm talking abou
 ## Class Schedule
 see the handout
 
-<iframe src="https://drive.google.com/file/d/1DRIZo5Ec9j9O2YS5jbHUSNHuQT-DXCBc/preview" width="640" height="480"></iframe>
-
-<div id="example1"></div>
-<script src="/js/pdfobject.js"></script>
-<script>PDFObject.embed("/static_files/syllabus/syllabus.pdf", "#example1");</script>
+<iframe src="/static_files/syllabus/syllabus.pdf#page=2" width="100%" height="100%">This browser does not support PDFs. Please download the PDF to view it: <a href="/static_files/syllabus/syllabus.pdf">Download PDF</a></iframe>
 
