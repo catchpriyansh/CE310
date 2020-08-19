@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: tutorials
 title: Tutorials
 permalink: /tutorial/
 ---
