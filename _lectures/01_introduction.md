@@ -8,4 +8,6 @@ links:
     - url: /static_files/presentations/lec.png
       name: Slides
     - url: /static_files/syllabus/syllabus.pdf
-      name: Course Handout---
+      name: Course Handout
+
+---
