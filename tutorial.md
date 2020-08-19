@@ -1,5 +1,5 @@
 ---
-layout: tutorial
+layout: assignments
 title: Tutorial
 permalink: /tutorial/
 ---
