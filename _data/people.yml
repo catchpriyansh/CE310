@@ -1,9 +1,10 @@
 instructors:
   - name: Priyansh Singh
     profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+    webpage: https://priyanshsingh.com
   - name: Gourab Sil
     profile_pic: /_images/pp/mcgonagall.jpg
+    webpage: https://priyanshsingh.com
 
 teaching_assistants:
   - name: Announce Later
