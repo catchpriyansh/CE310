@@ -73,3 +73,7 @@ see the handout
 
 <iframe src="https://drive.google.com/file/d/1DRIZo5Ec9j9O2YS5jbHUSNHuQT-DXCBc/preview" width="640" height="480"></iframe>
 
+<div id="example1"></div>
+<script src="/js/pdfobject.js"></script>
+<script>PDFObject.embed("/static_files/syllabus/syllabus.pdf", "#example1");</script>
+
