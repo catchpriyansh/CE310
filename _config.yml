@@ -6,14 +6,14 @@ course_semester: "Fall 1998"
 baseurl: "/ce406" # the subpath of your site, e.g. /blog/
 url: "http://catchpriyansh.github.io/" # the base hostname & protocol for your site
 
-schoolname: "Hogwarts"
-schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+schoolname: "Department of Civil Engineering, IIT Indore"
+schoolurl: "https://ce.iiti.ac.in"
+twitter_username: catchpriyansh 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    Department of Civil Engineering
+    IIT Indore
+    Simrol
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
