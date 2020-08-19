@@ -66,7 +66,7 @@ There are **NO** make-ups for missed exams unless backed by proper medical reaso
 
 ### Academic Dishonesty Policy
 
-Don'™t cheat. Don'™t be that guy. Yes, you. You know exactly what I'm talking about too.
+Don't cheat. Don't be that guy. Yes, you. You know exactly what I'm talking about too.
 
 ## Class Schedule
 see the handout
