@@ -7,7 +7,7 @@ baseurl: "/ce406" # the subpath of your site, e.g. /blog/
 url: "http://catchpriyansh.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Department of Civil Engineering, IIT Indore"
-schoolurl: "https://ce.iiti.ac.in"
+schoolurl: "https://priyanshsingh.com"
 twitter_username: catchpriyansh 
 
 address: |
