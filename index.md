@@ -8,8 +8,7 @@ _**Railway Engineering:**_ Indian Railway Track - different gauges, cross sectio
 
 ### Course Objectives
 
-This course is designed to provide the student with tools and methods to
-analyse, design and plan airport and railway infrastructure. 
+To develop a basic understanding of the air transportation and rail transportation infrastructure.
 
 
 ### Required Readings
@@ -34,7 +33,7 @@ I will detail the policy for this course below. Basically, don't cheat and try t
 
 - **20%** of your grade will be determined by tutorials, assignments and quizzes.
 
-- **15%** of your grade will be determined by a term project. Term project will include 05-page paper submission and a presentation. More information on term paper will be provided later in class.
+- **15%** of your grade will be determined by a term project. Term project will include 2-3 page paper submission and a presentation. More information on term paper will be provided later in class.
 
 - **40%** of your grade will be determined by a final exam.
 
@@ -42,12 +41,10 @@ I will detail the policy for this course below. Basically, don't cheat and try t
 
  There is no direct weightage given to attendance. However students are encourage to attained classes because there may be surprise tutorials, assignments and quizzes. 
  > *Showing up is 80 percent of life* -- Woody Allen, [via Marshall Brickman](http://quoteinvestigator.com/2013/06/10/showing-up/#note-6553-1)
- 
-### Late Arrival of the Professor Policy
-
-Dear students I am writing this to let you know what you should do if I am late to class. This seems like an anachronism. I will inform students via e-mail in advance of class if class is cancelled for the day. I will also contact to department and your class representative if something happened on the way to work. Failing that, assume the worst happened to me. I ask the students make sure that my story gets the proper treatment on an *Prime TV* show. I also ask that my story be narrated by Arnab or Ravish.
 
 ### E-mail Policy
+
+Any electronic submission or consent should be emailed to [priyansh@iiti.ac.in](priyansh@iiti.ac.in). Any email should have ?CE406" followed by the issue in subject line.
 
 I am usually quick to respond to student e-mails. However, student e-mails tend to do several things that try my patience. I have made a policy, that outlines why I will not respond to certain e-mails students send. Multiple rationales follow.
 
@@ -71,5 +68,5 @@ Don't cheat. Don't be that guy. Yes, you. You know exactly what I'm talking abou
 ## Class Schedule
 see the handout
 
-<iframe src="/static_files/syllabus/syllabus.pdf#page=2" width="100%" height="100%">This browser does not support PDFs. Please download the PDF to view it: <a href="/static_files/syllabus/syllabus.pdf">Download PDF</a></iframe>
+<iframe src="https://drive.google.com/file/d/1A4Aq211cJf8ww2Djz3D4WldqYJeAkQ9X/view?usp=sharing" width="100" height="100">This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1A4Aq211cJf8ww2Djz3D4WldqYJeAkQ9X/view?usp=sharing">Download PDF</a></iframe>
 
