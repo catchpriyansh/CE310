@@ -17,7 +17,7 @@ address: |
     
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-# google_analytics: UA-XXXXXXXX-X
+google_analytics: UA-176001582-1
 
 ### Do not change the followings unless you know what you are doing ###
 

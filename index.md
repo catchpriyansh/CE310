@@ -68,5 +68,4 @@ Don't cheat. Don't be that guy. Yes, you. You know exactly what I'm talking abou
 ## Class Schedule
 see the handout
 
-<iframe src="https://drive.google.com/file/d/1A4Aq211cJf8ww2Djz3D4WldqYJeAkQ9X/view?usp=sharing" width="100" height="100">This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1A4Aq211cJf8ww2Djz3D4WldqYJeAkQ9X/view?usp=sharing">Download PDF</a></iframe>
 
