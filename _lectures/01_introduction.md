@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-08-25T12:00:00+5:30
-title: 'Lecture 0/1 Syllabus Day'
+title: 'Lecture 0/1: Syllabus Day and Introduction'
 tldr: "Syllabus and course policy discussion and Introduction to Air mode of Transportation"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
