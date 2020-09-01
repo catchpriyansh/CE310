@@ -3,8 +3,8 @@ course_name: CE406 Transportation Engineering II
 # course_description: "This course is designed to provide the student with tools and methods to analyze, design and plan airport and railway infrastructure."
 course_semester: "Atumun 2020"
 
-baseurl: "/ce406" # the subpath of your site, e.g. /blog/
-url: "http://catchpriyansh.github.io/" # the base hostname & protocol for your site
+baseurl: #"/ce406" # the subpath of your site, e.g. /blog/
+url: "" #"http://catchpriyansh.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Department of Civil Engineering, IIT Indore"
 schoolurl: "https://priyanshsingh.com"
@@ -51,3 +51,5 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+
+github: [metadata]
