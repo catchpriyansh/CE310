@@ -66,7 +66,7 @@ There are **NO** make-ups for missed exams unless backed by proper medical reaso
 Don't cheat. Don't be that guy. Yes, you. You know exactly what I'm talking about too.
 
 ## Class Schedule
-see the [course handout](https://drive.google.com/file/d/1A4Aq211cJf8ww2Djz3D4WldqYJeAkQ9X/view?usp=sharing)
+see the [course handout](https://drive.google.com/file/d/1EiEeQcn6kpnppMbUVGLVVLAnbIpqDhYF/view?usp=sharing)
 
 
 
