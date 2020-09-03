@@ -9,7 +9,5 @@ due_event:
     type: due
     date: 2020-09-04T23:59:00+5:30
     description: 'Tutorial 1 #1 due'
-links: 
-    - url: https://learn.priyanshsingh.in/
-      name: Submit
 ---
+[Submit](https://learn.priyanshsingh.in/)
