@@ -10,4 +10,6 @@ due_event:
     date: 2020-09-04T23:59:00+5:30
     description: 'Tutorial 1 #1 due'
 ---
-[Submit](https://learn.priyanshsingh.in/)
+[Submit Assignment here](https://learn.priyanshsingh.in/)
+
+[Tutorial Recording](https://drive.google.com/file/d/1brWC5RCj8VzyYd1tfXUqlzo9XAOXJE9S/view?usp=sharing)
