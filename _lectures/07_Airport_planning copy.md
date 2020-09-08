@@ -5,7 +5,7 @@ title: 'Lecture 7: Planning of Airport'
 tldr: "Airport Planning"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
-    - url: https://drive.google.com/file/d/1XEtxHTeF2MuIiT8JTQAHLpYapLAw3Nkb/view?usp=sharing
+    - url: https://drive.google.com/file/d/10KpREFaAXsGyyuVmVaZvwX-QIoMy-Xgh/view?usp=sharing
       name: Slides
     - url: 
       name: Recording
