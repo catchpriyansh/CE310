@@ -7,7 +7,7 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: https://drive.google.com/file/d/1KbnEwl9Ry_kvVG0bmHfTiMPugsXDHSPC/view?usp=sharing
       name: Slides
-    - url: 
+    - url: https://drive.google.com/file/d/1YwNgRNTpP7fCSpHCUsmO0PP70tqqQRyB/view?usp=sharing
       name: Recording
 ---
 Refer class slides
