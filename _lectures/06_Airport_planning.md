@@ -10,6 +10,6 @@ links:
     - url: https://drive.google.com/file/d/1KswxZfgQ8r5509kxT9shzhfbE6_rC5T6/view?usp=sharing
       name: Recording
     - url: https://drive.google.com/file/d/1VsQVuCnceOoUF5asxuSgKGJ-SLRYav15/view?usp=sharing
-      name: Tutorial Recording
+      name: 'Tutorial Recording'
 ---
 Refer class slides
