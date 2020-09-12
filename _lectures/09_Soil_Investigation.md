@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-09-15T12:00:00+5:30
+date: 2020-09-17T12:00:00+5:30
 title: 'Lecture 9: Soil Investigation and Evaluation'
 tldr: "Airport Pavement Design"
 thumbnail: /static_files/presentations/lec.jpg
