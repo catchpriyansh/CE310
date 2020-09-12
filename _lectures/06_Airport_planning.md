@@ -12,4 +12,4 @@ links:
     - url: https://drive.google.com/file/d/1VsQVuCnceOoUF5asxuSgKGJ-SLRYav15/view?usp=sharing
       name: 'Tutorial Recording'
 ---
-Refer class slides
+1. *Robert Horonjeff, Francis McKelvey, William Sproule, Seth Young - Planning and Design of Airports [5 ed.]* - Chapter 4

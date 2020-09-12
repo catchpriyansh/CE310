@@ -10,4 +10,4 @@ links:
     - url: https://drive.google.com/file/d/12khT4fhTJoX5kNjSAWl8armLe26DJZgx/view?usp=sharing
       name: Recording
 ---
-Refer class slides
+1. *Robert Horonjeff, Francis McKelvey, William Sproule, Seth Young - Planning and Design of Airports [5 ed.]* - Chapter 1
