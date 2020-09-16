@@ -7,7 +7,7 @@ thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: https://drive.google.com/file/d/1KfhRHA6xEWFBugHG7Sqwv4TWhJmtB7um/view?usp=sharing
       name: Slides
-    - url: 
+    - url: https://drive.google.com/file/d/1RJhDeBM_FYq6WVYH819tLxBgk2s1s-au/view?usp=sharing
       name: Recording
 ---
 1. *Robert Horonjeff, Francis McKelvey, William Sproule, Seth Young - Planning and Design of Airports [5 ed.]* - Chapter 6
