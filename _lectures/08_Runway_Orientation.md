@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2020-09-16T12:00:00+5:30
-title: 'Lecture 8: Site Selection and Runway Orientation'
+title: 'Lecture 9: Runway Orientation'
 tldr: "Airport Planning"
 thumbnail: /static_files/presentations/lec.jpg
 links: 
