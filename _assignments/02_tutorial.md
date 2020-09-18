@@ -13,4 +13,4 @@ due_event:
 ---
 [Submit Assignment here](https://learn.priyanshsingh.in/)
 
-[Tutorial Recording]()
+[Tutorial Recording](https://drive.google.com/file/d/1MVfrM0jVzv3O2ZTuiU5ruV2--0jeQa_7/view?usp=sharing)
