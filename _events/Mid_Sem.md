@@ -7,4 +7,4 @@ description: 'Midsem on 10/10/2020'
 hide_from_announcments: false
 ---
 **Topics:**
-All portion covered till 29/17/2020.
+All portion covered till 29/10/2020.
