@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2020-10-03T12:00:00+5:30
+date: 2020-10-13T12:00:00+5:30
 title: 'Lecture 14: Railway Introduction'
 tldr: "Railway Engineering"
 thumbnail: /static_files/presentations/lec.jpg
