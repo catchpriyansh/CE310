@@ -7,4 +7,4 @@ description: 'Quiz 3 on 10/29/2020'
 hide_from_announcments: false
 ---
 **Topics:**
-
+After midsem till 10/28/2020.
