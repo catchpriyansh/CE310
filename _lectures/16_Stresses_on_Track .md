@@ -9,8 +9,8 @@ links:
       name: 'Slides'
       
     - url: "https://drive.google.com/file/d/1urxRr-MaNa7b7_-BVnpiqgRgLvee_tPv/view?usp=sharing"
-      name: 'Rec P2'
+      name: "Rec P2"
       
     - url: "https://drive.google.com/file/d/1RTbjrAWg1FVSyCyLymjJHud9j-nDcFM7/view?usp=sharing"
-     name: 'Rec P1'
+     name: "Rec P1"
 ---
