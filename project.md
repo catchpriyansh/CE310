@@ -10,3 +10,5 @@ The ASCE conference formatting instruction is attached which you need to follow 
 [Submit Assignment here](https://learn.priyanshsingh.in/)
 
 [FORMATTING Instruction to Author ASCE Conference Style](/static_files/presentations/author_formatting_instructions.docx)
+
+[Download Submissions Here](https://mycloud.iiti.ac.in/index.php/f/335884)
