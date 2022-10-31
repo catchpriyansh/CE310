@@ -1,7 +1,7 @@
 # Site settings
 course_name: CE310 Transportation Engineering I
 # course_description: "This course is designed to provide the student with tools and methods to analyze, design and plan airport and railway infrastructure."
-course_semester: "Atumun 2020"
+course_semester: "Spring 2023"
 
 baseurl: #"/ce310" # the subpath of your site, e.g. /blog/
 url: "" #"http://catchpriyansh.github.io/" # the base hostname & protocol for your site
